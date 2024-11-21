@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormularioDatos</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad:</string>
+    <string name="defensa">Defensa</string>
+    <string name="portero">Portero</string>
+    <string name="centrocampista">Centrocampista</string>
+    <string name="delantero">Delantero</string>
+    <string name="paga_seguro_m_dico">¿Paga seguro médico?</string>
+    <string name="enviar_datos">Enviar datos</string>
+    <string name="texto_resultado">Texto resultado</string>
+    <string name="a_os">"%1$s\n                |%2$s\n                |%3$s años\n                |%4$s\n                |%5$s\n            "</string>
+</resources>
